@@ -1,0 +1,3 @@
+# Pin a nanoinfra release for reproducibility (a tag or commit beats @main).
+nanoinfra @ git+https://github.com/suning-git/nanoinfra@main
+matplotlib   # the experiments' plots (numpy / torch / ... come with nanoinfra)
